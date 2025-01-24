@@ -17,7 +17,6 @@
 ## 📬 Let's Connect
 - Email: [moh1998980@gmail.com]
 - LinkedIn: [https://www.linkedin.com/in/muhammed-safaa-9936b4222/]
-- Portfolio: [your portfolio link here]
 
 ---
 

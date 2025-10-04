@@ -18,6 +18,7 @@
 * Node.js 🚀 | Express.js ⚙️ | Next.js API Routes
 * REST APIs | Authentication | Secure Coding Practices 🔐
 * Asp.net WEB CORE API | c#
+* go Lang
 
 ### **DevOps & Deployment**
 
